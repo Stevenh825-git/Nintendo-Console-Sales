@@ -349,7 +349,7 @@ console’s success.
 
 - Highlighting the Wii’s astronomical success and WiiU’s failure
 
-![](./Dashboard_Images/Dashboard_Nintendo_Top_Sales.png)
+![](Nintendo_Sales_files/figure-gfm/Dashboard_Nintendo_Top_Sales.png)
 
 When comparing Nintendo’s home consoles with Sony’s:
 
@@ -359,7 +359,7 @@ When comparing Nintendo’s home consoles with Sony’s:
 
 - Nintendo completely dominates the handheld market.
 
-![](./Dashboard_Images/Dashboard_Top_Sales_With_Sony.png)
+![](Nintendo_Sales_files/figure-gfm/Dashboard_Top_Sales_With_Sony.png)
 
 When investigating the top 10 games for Nintendo consoles, the
 franchises represented are usually Nintendo’s major IPs.
@@ -388,7 +388,7 @@ Million benchmark from 2017-2021.
 Therefore, it is important to see how Nintendo’s other home consoles
 perform across their lifespan.
 
-![](./Dashboard_Images/Yearly_Nintendo_Sales.png)
+![](Nintendo_Sales_files/figure-gfm/Yearly_Nintendo_Sales.png)
 
 The chart indicates a similar behavior across all platforms.
 
@@ -403,11 +403,11 @@ The console with the biggest dip is the Nintendo Wii:
 
 ### Wii’s Starting Sales
 
-![](./Dashboard_Images/Wii_Begin.png)
+![](Nintendo_Sales_files/figure-gfm/Wii_Begin.png)
 
 ### Wii’s Drop in Sales
 
-![](./Dashboard_Images/Wii_Drop.png)
+![](Nintendo_Sales_files/figure-gfm/Wii_Drop.png)
 
 ## 
 
@@ -425,15 +425,15 @@ manufacturers:
 
 ### Microsoft Sales
 
-![](./Dashboard_Images/Microsoft_Sales.png)
+![](Nintendo_Sales_files/figure-gfm/Microsoft_Sales.png)
 
 ### Sony Sales
 
-![](./Dashboard_Images/Sony_Sales.png)
+![](Nintendo_Sales_files/figure-gfm/Sony_Sales.png)
 
 ### Sega Sales
 
-![](./Dashboard_Images/Sega_Sales.png)
+![](Nintendo_Sales_files/figure-gfm/Sega_Sales.png)
 
 ## 
 
@@ -448,7 +448,7 @@ has arrived in the market.
 Lastly, different console manufacturers experience greater sales
 depending on the genre.
 
-![](./Dashboard_Images/Most_Popular_Genre.png)
+![](Nintendo_Sales_files/figure-gfm/Most_Popular_Genre.png)
 
 Nintendo consoles have greater sales when the genre is a *platformer*.
 
@@ -468,15 +468,15 @@ A possible explanation is the consumer’s perception of these platforms.
 
 ### Platformer Sales
 
-![](./Dashboard_Images/Platformers.png)
+![](Nintendo_Sales_files/figure-gfm/Platformers.png)
 
 ### Action Sales
 
-![](./Dashboard_Images/Action.png)
+![](Nintendo_Sales_files/figure-gfm/Action.png)
 
 ### Shooter Sales
 
-![](./Dashboard_Images/Shooter.png)
+![](Nintendo_Sales_files/figure-gfm/Shooter.png)
 
 ## 
 
