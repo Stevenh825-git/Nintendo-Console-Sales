@@ -14,7 +14,7 @@ understanding of the patterns shared across multiple platforms. In
 addition, these patterns may provide key insight when purchasing a
 Nintendo console for the consumer.
 
-## Understanding the Data
+## Understanding the Data {.tabset}
 
 ### Set Up Workspace
 
@@ -296,7 +296,6 @@ However, how does the Switch compare to other consoles?
 Note: The following dashboard uses data obtained from
 [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
-###################################################################### 
 
 <div id="viz1680029445527" class="tableauPlaceholder"
 style="position: relative">
@@ -322,7 +321,6 @@ style="position: relative">
 
 </div>
 
-############################################################################# 
 
 There are key takeaways from this dashboard:
 
