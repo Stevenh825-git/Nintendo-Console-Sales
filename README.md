@@ -3,6 +3,8 @@ Common Trends Between Nintendo Platforms
 Steven Hernandez
 2023-03-30
 
+Website: https://stevenh825-git.github.io/Nintendo-Console-Sales/
+
 Nintendo’s intellectual properties (IP) have allowed the company to
 became a household name.
 
@@ -14,7 +16,7 @@ understanding of the patterns shared across multiple platforms. In
 addition, these patterns may provide key insight when purchasing a
 Nintendo console for the consumer.
 
-## Understanding the Data {.tabset}
+## Understanding the Data
 
 ### Set Up Workspace
 
