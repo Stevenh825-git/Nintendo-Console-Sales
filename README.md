@@ -94,7 +94,7 @@ head(grouped_genre,10)
 - Since the genres after the 7th row are 2 games or less, they are
   omitted from the following graph.
 
-## {.tabset}
+##
 
 ### Graph
 
